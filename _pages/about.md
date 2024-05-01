@@ -18,6 +18,6 @@ Prior to attending Columbia University, she received her B.S. in 2018 and M.S. i
 
 Publication
 ======
-Gu, R., and Coauthors, 2021: Early Peak of Latent Heat Fluxes Regulates Diurnal Temperature Range in Montane Cloud Forests. J. Hydrometeor., 22, 2475–2487. [Link](https://doi.org/10.1175/JHM-D-21-0005.1)
+**R-Y Gu**, M-H Lo, C-Y Liao, Y-S Jang, J-Y Juang, C-Y Huang, S-C Chang, C-I Hsieh, M-H Li, Y-Y Chen, HS Chu, KY Chang (2021). Early Peak of Latent Heat Fluxes Regulates Diurnal Temperature Range in Montane Cloud Forests. J. Hydrometeor., 22, 2475–2487. [Link](https://doi.org/10.1175/JHM-D-21-0005.1)
 
 
