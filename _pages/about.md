@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Rong-Yu Gu is a Ph.D. student in Gentine's lab in Earth and Environmental Engineering, Columbia University. She is studying the impact of natural disturbances on the aboveground carbon stocks and the phenological responses of vegetation to climate. Her research interest includes terrestrial carbon cycle, climate extremes, eco-hydro-climatology, land-atmosphere interactions.
+Rong-Yu Gu is a Ph.D. student in Gentine's lab in Earth and Environmental Engineering, Columbia University. She is studying the phenological responses of vegetation to climate and natual disturbances using multi-scale observations and machine learning-driven products. Her research interest includes terrestrial carbon cycle, climate extremes, eco-hydro-climatology, land-atmosphere interactions.
 
 ---
 
