@@ -4,8 +4,8 @@ main:
     url: /files/CV_Gu_Rong-Yu_website.pdf
     # url: /cv/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
  
  # - title: "Publications"
  #   url: /publications/
